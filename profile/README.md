@@ -22,13 +22,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://subwaybuildermodded.com/railyard">
+  <a href="https://github.com/Subway-Builder-Modded/railyard">
     <img width="128" height="128" alt="train-track" src="https://github.com/user-attachments/assets/914ab1b4-d5f7-47a6-91dd-58304ac45970" />
   </a>
   <a href="https://github.com/Subway-Builder-Modded/The-Railyard">
     <img width="128" height="128" alt="database" src="https://github.com/user-attachments/assets/7c47a825-e8ab-40fd-aead-53df974262c8" />
   </a>
-  <a href="https://subwaybuildermodded.com/template-mod">
+  <a href="https://github.com/Subway-Builder-Modded/template-mod">
     <img width="128" height="128" alt="package" src="https://github.com/user-attachments/assets/7f6efdeb-4b3e-44c3-9565-c2bf58437d9a" />
   </a>
   <a href="https://github.com/Subway-Builder-Modded/website">
