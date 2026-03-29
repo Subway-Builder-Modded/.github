@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://subwaybuildermodded.com/">
-    <img src="https://subwaybuildermodded.com/images/docs/railyard/railyard.png" width="256" />
+    <img src="https://subwaybuildermodded.com/logo.png" width="256" />
   </a>
 </p>
 
