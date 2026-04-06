@@ -34,6 +34,9 @@
   <a href="https://github.com/Subway-Builder-Modded/website">
     <img width="128" height="128" alt="globe" src="https://github.com/user-attachments/assets/ff2b1eee-91d1-4621-965e-e8e75eef29c5" />
   </a>
+  <a href="https://github.com/Subway-Builder-Modded/foundry">
+    <img width="128" height="128" alt="anvil" src="https://github.com/user-attachments/assets/a48d734f-c48b-4645-a07b-33b01a94ad1a" />
+  </a>
 </p>
 
 <br/>
