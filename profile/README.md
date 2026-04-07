@@ -37,6 +37,9 @@
   <a href="https://github.com/Subway-Builder-Modded/foundry">
     <img width="128" height="128" alt="anvil" src="https://github.com/user-attachments/assets/a48d734f-c48b-4645-a07b-33b01a94ad1a" />
   </a>
+  <a href="https://github.com/Subway-Builder-Modded/railyard/main/backendScaffolding/locomotive">
+    <img width="128" height="128" alt="tram-front" src="https://github.com/user-attachments/assets/074178b6-018b-4e5e-9155-a195c5540b55" />
+  </a>
 </p>
 
 <br/>
