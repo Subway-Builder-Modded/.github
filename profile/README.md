@@ -31,9 +31,6 @@
   <a href="https://github.com/Subway-Builder-Modded/template-mod">
     <img width="128" height="128" alt="package" src="https://github.com/user-attachments/assets/7f6efdeb-4b3e-44c3-9565-c2bf58437d9a" />
   </a>
-  <a href="https://github.com/Subway-Builder-Modded/railyard/main/backendScaffolding/locomotive">
-    <img width="128" height="128" alt="tram-front" src="https://github.com/user-attachments/assets/074178b6-018b-4e5e-9155-a195c5540b55" />
-  </a>
 </p>
 
 <br/>
